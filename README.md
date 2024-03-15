@@ -32,37 +32,37 @@ A guide to go from zero to hero in cyber security
         - access
         - authentication
         - MFA
-            i. soemthing you know
-            ii. something you have
-            iii. something you are
-            iv. location
+            1. soemthing you know
+            2. something you have
+            3. something you are
+            4. location
 3. how security departments usually work
-    a. SOC
-    b. NOC
-    c. IR
-    d. administrative
+    1. SOC
+    2. NOC
+    3. IR
+    4. administrative
 4. offensive/defensive aka red team/blue team
-        a. blue team
-        b. red team
-        c. red team informs blue team
-        d. purple team
+    1. blue team
+    2. red team
+    3. red team informs blue team
+    4. purple team
     
 ## technical concepts and theory
 1. networking
-   a. client-server model
-   b. network devices
-   c. ip addresses
-   d. mac addresses
-   e. LAN
-   f. ARP
-   g. DHCP
-   h. routing
-   I. TCP
-    - packets
-   J. DNS
+    1. client-server model
+    2. network devices
+    3. ip addresses
+    4. mac addresses
+    5. LAN
+    6. ARP
+    7. DHCP
+    8. routing
+    9. TCP
+     - packets
+    10. DNS
 2. operating systems
-    a. windows
-    b. linux
-    c. android
-    d. ios
-    e. embedded/iot
+    1. windows
+    2. linux
+    3. android
+    4. ios
+    5. embedded/iot
