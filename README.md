@@ -4,31 +4,31 @@ A guide to go from zero to hero in cyber security
 ## fundamentals and theory
 1. definitions
 2. core ideas
-    a. GRC
+    1. GRC
         - security culture
         - budget
         - man power
-    b. CIA triad
-    c. security in depth + zero trust security vs castle methoddiv. assume compromise
-    d. assessing threats
+    2. CIA triad
+    3. security in depth + zero trust security vs castle methoddiv. assume compromise
+    4. assessing threats
         - threat actors
-    e. threat modeling
-    f. risk analysis
+    5. threat modeling
+    6. risk analysis
         - assets
         - financial impact modeling
         - heatmap of threats
-    g. mitigating risk
-    h. controlls
+    7. mitigating risk
+    8. controlls
         - administrative
         - technical
         - detective
         - preventitive
         - deturrant 
-    i. disaster recovery
+    9. disaster recovery
         - assume compromise
         - redundant backups
         - hot/cold/warm sites
-    j. access and authentication
+    10. access and authentication
         - access
         - authentication
         - MFA
