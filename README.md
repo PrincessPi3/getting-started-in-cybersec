@@ -2,9 +2,9 @@
 A guide to go from zero to hero in cyber security
 
 Outline of core fundamentals (mostly blue team)
-1. fundamentals
-    a. definitions
-    b. core ideas
+* fundamentals
+    1. definitions
+    2. core ideas
         i. GRC
             - security culture
             - budget
@@ -16,6 +16,9 @@ Outline of core fundamentals (mostly blue team)
             - threat actors
         vi. threat modeling
         vii. risk analysis
+            - assets
+            - financial impact modeling
+            - heatmap of threats
         viii. mitigating risk
 
         ix. controlls
@@ -28,11 +31,37 @@ Outline of core fundamentals (mostly blue team)
             - assume compromise
             - redundant backups
             - hot/cold/warm sites
-    c. how security departments usually work
-        - SOC
-        - NOC
-        - IR
-        - administrative
+        xi. access and authentication
+            - access
+            - authentication
+            - MFA
+                i. soemthing you know
+                ii. something you have
+                iii. something you are
+                iv. location
+    3. how security departments usually work
+        i. SOC
+        ii. NOC
+        iii. IR
+        iv. administrative
 
-    b. offensive/defensive aka red team/blue team
-        i. 
+    4. offensive/defensive aka red team/blue team
+        i. blue team
+        ii. red team
+        iii. red team informs blue team
+        iv. purple team
+    
+    5. Look ahead to technical concepts
+        i. networking
+            - client-server model
+            - ip addresses
+            - mac addresses
+            - LAN
+            - ARP
+            - DHCP
+            - routing
+        ii. networking contd
+            - TCP
+                i. packets
+            - UDP
+            - DNS
